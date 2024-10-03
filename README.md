@@ -1,4 +1,4 @@
-# **RULNet**
+# **RULNet** 🔋
 
 RULNet focuses on predicting the Remaining Useful Life (RUL) of lithium-ion batteries by leveraging advanced machine learning techniques. Our approach employs Recurrent Neural Networks (RNN) architectures, including LSTM, BiLSTM, GRU, and BiGRU, to accurately model the degradation patterns of batteries over time. By ensembling these models, we enhance prediction accuracy and mitigate the limitations of individual architectures.
 
