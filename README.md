@@ -36,30 +36,6 @@ This project predicts the **Remaining Useful Life (RUL)** of lithium-ion batteri
   - **MAE**: Measures average error magnitude.
   - **RMSE**: Penalizes larger errors more than MAE.
   - **R² Score**: Indicates goodness of fit.
-
-## Results
-
-| Model          | MAE      | RMSE     | R² Score |
-|----------------|----------|----------|----------|
-| Random Forest  | X.XX     | X.XX     | X.XX     |
-| kNN            | X.XX     | X.XX     | X.XX     |
-| SVM            | X.XX     | X.XX     | X.XX     |
-
-*Note: Replace `X.XX` with actual results after execution.*
-
-## Visualizations
-
-1. **RUL Distribution**:
-   ![RUL Distribution](rul_distribution.png)
-
-2. **Feature Correlation**:
-   ![Feature Correlation](feature_correlation.png)
-
-3. **Actual vs Predicted RUL (Random Forest)**:
-   ![Actual vs Predicted](actual_vs_predicted_rf.png)
-
-## How to Run
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/rul-prediction.git
