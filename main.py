@@ -1,10 +1,3 @@
-# main.py
-"""
-Main file for RUL Prediction using Random Forest, kNN, and SVM models.
-Author: Your Name
-Date: YYYY-MM-DD
-"""
-
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
