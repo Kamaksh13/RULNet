@@ -7,9 +7,10 @@ This project predicts the **Remaining Useful Life (RUL)** of lithium-ion batteri
 - **Dataset**: The project uses a dataset containing features such as discharge time, charging time, voltage, and more.
 - **Goal**: To predict RUL and evaluate model performance.
 - **Models Implemented**:
+  - Linear Regressor
+  - Decision Tree
   - Random Forest Regressor
-  - k-Nearest Neighbors (kNN)
-  - Support Vector Machines (SVM)
+  - Gradient Boost
 - **Evaluation Metrics**:
   - Mean Absolute Error (MAE)
   - Root Mean Squared Error (RMSE)
@@ -28,7 +29,7 @@ This project predicts the **Remaining Useful Life (RUL)** of lithium-ion batteri
 - Interactive scatter plots created using **Plotly** for better insights.
 
 ### 3. **Model Implementation**
-- Implemented and trained **Random Forest**, **kNN**, and **SVM** regression models.
+- Implemented and trained **Linear Regressor**, **Decision Tree**, **Random Forest**, and **Gradient Boost** models.
 - Tuned hyperparameters for optimal performance.
 
 ### 4. **Model Evaluation**
