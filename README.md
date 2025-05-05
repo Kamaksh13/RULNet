@@ -29,7 +29,7 @@ This project predicts the **Remaining Useful Life (RUL)** of lithium-ion batteri
 - Interactive scatter plots created using **Plotly** for better insights.
 
 ### 3. **Model Implementation**
-- Implemented and trained **Linear Regressor**, **Decision Tree**, **Random Forest**, and **Gradient Boost** models.
+- Implemented and trained **Linear Regressor**, **Decision Tree**, **Random Forest**, and **XGBoost** models.
 - Tuned hyperparameters for optimal performance.
 
 ### 4. **Model Evaluation**
